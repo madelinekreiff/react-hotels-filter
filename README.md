@@ -1,2 +1,4 @@
 # react-hotels-filter
-Created with CodeSandbox
+
+Click on the link below to see the CodeSandbox
+
