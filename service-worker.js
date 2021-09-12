@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://madelinekreiff.github.io/react-sticky-notes/precache-manifest.8a9970964451d4217d7de2ccfc15742f.js"
+  "https://madelinekreiff.github.io/react-hotels-filter/precache-manifest.8a9970964451d4217d7de2ccfc15742f.js"
 );
 
 workbox.clientsClaim();
