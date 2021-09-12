@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://.github.io/csb-mgrh1/precache-manifest.8a9970964451d4217d7de2ccfc15742f.js"
+  "https://madelinekreiff.github.io/react-sticky-notes/precache-manifest.8a9970964451d4217d7de2ccfc15742f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://.github.io/csb-mgrh1/index.html", {
+workbox.routing.registerNavigationRoute("https://madelinekreiff.github.io/react-hotels-filter/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
